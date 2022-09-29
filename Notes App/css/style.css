@@ -1,0 +1,38 @@
+
+
+ body{
+    background-color: #f988fd;
+ }
+
+.hd-delete{
+    position: relative;
+}
+.span{
+    position: absolute;
+    top: 3px;
+    right: 0px;
+}
+.notesCard{
+    width: 67rem;
+    border-radius: 15px;
+}
+.badge{
+    background: #f50303;
+    color: white;
+    border: 2px solid red;
+    border-radius: 22px;
+    height: 21px;
+    font-size: 11px;
+    width: 28px;
+}
+
+#addBtn{
+    border-radius: 23px;
+    background-color: #0020ff;
+}
+
+#addTxt{
+    border-radius: 20px;
+    background-color: #e6feff;
+
+}
